@@ -3,7 +3,7 @@
 I'm a **Frontend Developer** with 4 years of commercial experience, specializing in development of web applications with **React**, **Next.js** and **TypeScript**. I thrive in international teams following Agile methodologies.
 Lately, I've been exploring App Router, Node.js and modern state management tools like MobX and Redux Toolkit to broaden my skill set.
 
-I encourage you to check out a wildlife photography portfolio I designed and implemented with Next.js v15, App Router and a headless CMS: ![Tomasz Rębas - wildlife photography](https://tomaszrebas.pl/)
+I encourage you to check out a wildlife photography portfolio I designed and implemented with Next.js v15, App Router and a headless CMS: [Tomasz Rębas - wildlife photography](https://tomaszrebas.pl/)
 
 ### 🛠️ Tech Stack
 
