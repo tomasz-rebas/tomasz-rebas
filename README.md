@@ -1,6 +1,6 @@
 ## Hi there 👋 Thanks for stopping by!
 
-I'm a Frontend Developer with 4 years of commercial experience, specializing in development of web applications in React, Next.js and TypeScript. I thrive in international teams following Agile methodologies. Lately, I've been exploring App Router, Node.js and modern state management tools like MobX and Redux Toolkit to broaden my skill set.
+I'm a Frontend Developer with 4 years of commercial experience, specializing in development of web applications with React, Next.js and TypeScript. I thrive in international teams following Agile methodologies. Lately, I've been exploring App Router, Node.js and modern state management tools like MobX and Redux Toolkit to broaden my skill set.
 
 I encourage you to check out a wildlife photography portfolio I designed and implemented with Next.js v15, App Router and a headless CMS: ![Tomasz Rębas - wildlife photography](https://tomaszrebas.pl/)
 
@@ -10,6 +10,7 @@ I encourage you to check out a wildlife photography portfolio I designed and imp
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white&style=for-the-badge)
