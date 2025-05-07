@@ -17,6 +17,11 @@ I encourage you to check out a wildlife photography portfolio I designed and imp
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white&style=for-the-badge)
 
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/tomasz-r%C4%99bas-6835461b7/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:tomasz.rebas@outlook.com)
+
 <!--
 **tomasz-rebas/tomasz-rebas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
